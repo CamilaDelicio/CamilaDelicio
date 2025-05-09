@@ -31,7 +31,7 @@ Enriquecerme a través de un proceso de aprendizaje continuo, mientras demuestro
 
 📫 Contacto
 
-✉️ camiladelicio@gmail.com 
+✉️ camiladelicio@gmail.com <br/>
 💼 www.linkedin.com/in/camiladelicio
 
 
