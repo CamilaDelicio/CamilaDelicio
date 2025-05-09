@@ -8,10 +8,8 @@ Aquí encontrarán mis proyectos personales, académicos y profesionales, donde 
 
 🎯Metas Personales
 
-<p align="center">
 Seguir creciendo profesionalmente, adquiriendo nuevos conocimientos prácticos tanto en Backend como en Frontend.
 Enriquecerme a través de un proceso de aprendizaje continuo, mientras demuestro mi desempeño en las distintas áreas del desarrollo.
-</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
