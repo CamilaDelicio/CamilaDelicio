@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Camila 👩‍💻</h1>
-<img src="web-camila.png" alt="Camila programando" width="100%" height= "50%"/>
+<img src="web-camila.png" alt="Camila programando" width="50%" height= "50%"/>
 
 🙌Bienvenidos a mi perfil.
 Soy desarrolladora de software con muchas ganas de seguir aprendiendo y una gran pasión por el desarrollo Frontend.
