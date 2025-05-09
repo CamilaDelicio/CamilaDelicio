@@ -1,10 +1,10 @@
 <h1 align="center">¡Hola! Soy Camila 👩‍💻</h1>
-<img src="web-camila.png" alt="Camila programando" width="400" height= "100%"/>
-<p align="center">
+<img src="web-camila.png" alt="Camila programando" width="100%" height= "auto"/>
+
 🙌Bienvenidos a mi perfil.
 Soy desarrolladora de software con muchas ganas de seguir aprendiendo y una gran pasión por el desarrollo Frontend.
 Aquí encontrarán mis proyectos personales, académicos y profesionales, donde aplico tecnologías como JavaScript, React, Node.js y MySQL.
-</p>
+
 
 🎯Metas Personales
 
