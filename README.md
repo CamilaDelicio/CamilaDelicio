@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Camila 👩‍💻</h1>
-<img src="web-camila.png" alt="Camila programando" width="400"/>
+<img src="web-camila.png" alt="Camila programando" width="800"/>
 <p align="center">
 🙌Bienvenidos a mi perfil.
 Soy desarrolladora de software con muchas ganas de seguir aprendiendo y una gran pasión por el desarrollo Frontend.
@@ -38,7 +38,7 @@ Enriquecerme a través de un proceso de aprendizaje continuo, mientras demuestro
 📫 Contacto
 
 ✉️ camiladelicio@gmail.com 
-💼  [LinkedIn](https://www.linkedin.com/in/camiladelicio)
+💼 [LinkedIn](www.linkedin.com/in/camiladelicio)
 
 
 
